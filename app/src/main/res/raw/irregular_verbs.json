@@ -1,0 +1,926 @@
+[
+    {
+        "base_form": "Arise",
+        "past_simple": "Arose",
+        "past_participle": "Arisen",
+        "spanish": "Surgir, Levantarse"
+    },
+    {
+        "base_form": "Awake",
+        "past_simple": "Awoke",
+        "past_participle": "Awoken",
+        "spanish": "Despertarse"
+    },
+    {
+        "base_form": "Be/ am, are, is",
+        "past_simple": "Was / Were",
+        "past_participle": "Been",
+        "spanish": "Ser / Estar"
+    },
+    {
+        "base_form": "Bear",
+        "past_simple": "Bore",
+        "past_participle": "Borne / Born",
+        "spanish": "Soportar, dar a luz"
+    },
+    {
+        "base_form": "Beat",
+        "past_simple": "Beat",
+        "past_participle": "Beaten",
+        "spanish": "Golpear"
+    },
+    {
+        "base_form": "Become",
+        "past_simple": "Became",
+        "past_participle": "Become",
+        "spanish": "Llegar a Ser"
+    },
+    {
+        "base_form": "Begin",
+        "past_simple": "Began",
+        "past_participle": "Begun",
+        "spanish": "Empezar"
+    },
+    {
+        "base_form": "Bend",
+        "past_simple": "Bent",
+        "past_participle": "Bent",
+        "spanish": "Doblar"
+    },
+    {
+        "base_form": "Bet",
+        "past_simple": "Bet",
+        "past_participle": "Bet",
+        "spanish": "Apostar"
+    },
+    {
+        "base_form": "Bind",
+        "past_simple": "Bound",
+        "past_participle": "Bound",
+        "spanish": "Atar, encuadernar"
+    },
+    {
+        "base_form": "Bid",
+        "past_simple": "Bid",
+        "past_participle": "Bid",
+        "spanish": "Pujar"
+    },
+    {
+        "base_form": "Bite",
+        "past_simple": "Bit",
+        "past_participle": "Bitten",
+        "spanish": "Morder"
+    },
+    {
+        "base_form": "Bleed",
+        "past_simple": "Bled",
+        "past_participle": "Bled",
+        "spanish": "Sangrar"
+    },
+    {
+        "base_form": "Blow",
+        "past_simple": "Blew",
+        "past_participle": "Blown",
+        "spanish": "Soplar"
+    },
+    {
+        "base_form": "Break",
+        "past_simple": "Broke",
+        "past_participle": "Broken",
+        "spanish": "Romper"
+    },
+    {
+        "base_form": "Breed",
+        "past_simple": "Bred",
+        "past_participle": "Bred",
+        "spanish": "Criar"
+    },
+    {
+        "base_form": "Bring",
+        "past_simple": "Brought",
+        "past_participle": "Brought",
+        "spanish": "Traer Llevar"
+    },
+    {
+        "base_form": "Broadcast",
+        "past_simple": "Broadcast",
+        "past_participle": "Broadcast",
+        "spanish": "Radiar"
+    },
+    {
+        "base_form": "Build",
+        "past_simple": "Built",
+        "past_participle": "Built",
+        "spanish": "Edificar"
+    },
+    {
+        "base_form": "Burn",
+        "past_simple": "Burnt / Burned",
+        "past_participle": "Burnt / Burned",
+        "spanish": "Quemar"
+    },
+    {
+        "base_form": "Burst",
+        "past_simple": "Burst",
+        "past_participle": "Burst",
+        "spanish": "Reventar"
+    },
+    {
+        "base_form": "Buy",
+        "past_simple": "Bought",
+        "past_participle": "Bought",
+        "spanish": "Comprar"
+    },
+    {
+        "base_form": "Cast",
+        "past_simple": "Cast",
+        "past_participle": "Cast",
+        "spanish": "Arrojar"
+    },
+    {
+        "base_form": "Catch",
+        "past_simple": "Caught",
+        "past_participle": "Caught",
+        "spanish": "Coger"
+    },
+    {
+        "base_form": "Come",
+        "past_simple": "Came",
+        "past_participle": "Come",
+        "spanish": "Venir"
+    },
+    {
+        "base_form": "Cost",
+        "past_simple": "Cost",
+        "past_participle": "Cost",
+        "spanish": "Costar"
+    },
+    {
+        "base_form": "Cut",
+        "past_simple": "Cut",
+        "past_participle": "Cut",
+        "spanish": "Cortar"
+    },
+    {
+        "base_form": "Choose",
+        "past_simple": "Chose",
+        "past_participle": "Chosen",
+        "spanish": "Elegir"
+    },
+    {
+        "base_form": "Cling",
+        "past_simple": "Clung",
+        "past_participle": "Clung",
+        "spanish": "Agarrarse"
+    },
+    {
+        "base_form": "Creep",
+        "past_simple": "Crept",
+        "past_participle": "Crept",
+        "spanish": "Arrastrarse"
+    },
+    {
+        "base_form": "Deal",
+        "past_simple": "Dealt",
+        "past_participle": "Dealt",
+        "spanish": "Tratar"
+    },
+    {
+        "base_form": "Dig",
+        "past_simple": "Dug",
+        "past_participle": "Dug",
+        "spanish": "Cavar"
+    },
+    {
+        "base_form": "Do (Does)",
+        "past_simple": "Did",
+        "past_participle": "Done",
+        "spanish": "Hacer"
+    },
+    {
+        "base_form": "Draw",
+        "past_simple": "Drew",
+        "past_participle": "Drawn",
+        "spanish": "Dibujar"
+    },
+    {
+        "base_form": "Dream",
+        "past_simple": "Dreamt /Dreamed",
+        "past_participle": "Dreamt /Dreamed",
+        "spanish": "Soñar"
+    },
+    {
+        "base_form": "Drink",
+        "past_simple": "Drank",
+        "past_participle": "Drunk",
+        "spanish": "Beber"
+    },
+    {
+        "base_form": "Drive",
+        "past_simple": "Drove",
+        "past_participle": "Driven",
+        "spanish": "Conducir"
+    },
+    {
+        "base_form": "Eat",
+        "past_simple": "Ate",
+        "past_participle": "Eaten",
+        "spanish": "Comer"
+    },
+    {
+        "base_form": "Fall",
+        "past_simple": "Fell",
+        "past_participle": "Fallen",
+        "spanish": "Caer"
+    },
+    {
+        "base_form": "Feed",
+        "past_simple": "Fed",
+        "past_participle": "Fed",
+        "spanish": "Alimentar"
+    },
+    {
+        "base_form": "Feel",
+        "past_simple": "Felt",
+        "past_participle": "Felt",
+        "spanish": "Sentir"
+    },
+    {
+        "base_form": "Fight",
+        "past_simple": "Fought",
+        "past_participle": "Fought",
+        "spanish": "Luchar"
+    },
+    {
+        "base_form": "Find",
+        "past_simple": "Found",
+        "past_participle": "Found",
+        "spanish": "Encontrar"
+    },
+    {
+        "base_form": "Flee",
+        "past_simple": "Fled",
+        "past_participle": "Fled",
+        "spanish": "Huir"
+    },
+    {
+        "base_form": "Fly",
+        "past_simple": "Flew",
+        "past_participle": "Flown",
+        "spanish": "Volar"
+    },
+    {
+        "base_form": "Forbid",
+        "past_simple": "Forbade",
+        "past_participle": "Forbidden",
+        "spanish": "Prohibir"
+    },
+    {
+        "base_form": "Forget",
+        "past_simple": "Forgot",
+        "past_participle": "Forgotten",
+        "spanish": "Olvidar"
+    },
+    {
+        "base_form": "Forgive",
+        "past_simple": "Forgave",
+        "past_participle": "Forgiven",
+        "spanish": "Perdonar"
+    },
+    {
+        "base_form": "Freeze",
+        "past_simple": "Froze",
+        "past_participle": "Frozen",
+        "spanish": "Helar"
+    },
+    {
+        "base_form": "Get",
+        "past_simple": "Got",
+        "past_participle": "Got / Gotten",
+        "spanish": "Obtener"
+    },
+    {
+        "base_form": "Give",
+        "past_simple": "Gave",
+        "past_participle": "Given",
+        "spanish": "Dar"
+    },
+    {
+        "base_form": "Go (Goes)",
+        "past_simple": "Went",
+        "past_participle": "Gone",
+        "spanish": "Ir"
+    },
+    {
+        "base_form": "Grow",
+        "past_simple": "Grew",
+        "past_participle": "Grown",
+        "spanish": "Crecer"
+    },
+    {
+        "base_form": "Grind",
+        "past_simple": "Ground",
+        "past_participle": "Ground",
+        "spanish": "Moler"
+    },
+    {
+        "base_form": "Hang",
+        "past_simple": "Hung",
+        "past_participle": "Hung",
+        "spanish": "Colgar"
+    },
+    {
+        "base_form": "Have",
+        "past_simple": "Had",
+        "past_participle": "Had",
+        "spanish": "Haber o Tener"
+    },
+    {
+        "base_form": "Hear",
+        "past_simple": "Heard",
+        "past_participle": "Heard",
+        "spanish": "Oir"
+    },
+    {
+        "base_form": "Hide",
+        "past_simple": "Hid",
+        "past_participle": "Hidden",
+        "spanish": "Ocultar"
+    },
+    {
+        "base_form": "Hit",
+        "past_simple": "Hit",
+        "past_participle": "Hit",
+        "spanish": "Golpear"
+    },
+    {
+        "base_form": "Hold",
+        "past_simple": "Held",
+        "past_participle": "Held",
+        "spanish": "Agarrar Celebrar"
+    },
+    {
+        "base_form": "Hurt",
+        "past_simple": "Hurt",
+        "past_participle": "Hurt",
+        "spanish": "Herir"
+    },
+    {
+        "base_form": "Keep",
+        "past_simple": "Kept",
+        "past_participle": "Kept",
+        "spanish": "Conservar"
+    },
+    {
+        "base_form": "Know",
+        "past_simple": "Knew",
+        "past_participle": "Known",
+        "spanish": "Saber Conocer"
+    },
+    {
+        "base_form": "Kneel",
+        "past_simple": "Knelt",
+        "past_participle": "Knelt",
+        "spanish": "Arrodillarse"
+    },
+    {
+        "base_form": "Knit",
+        "past_simple": "Knit",
+        "past_participle": "Knit",
+        "spanish": "Hacer punto"
+    },
+    {
+        "base_form": "Lay",
+        "past_simple": "Laid",
+        "past_participle": "Laid",
+        "spanish": "Poner"
+    },
+    {
+        "base_form": "Lead",
+        "past_simple": "Led",
+        "past_participle": "Led",
+        "spanish": "Conducir"
+    },
+    {
+        "base_form": "Lean",
+        "past_simple": "Leant",
+        "past_participle": "Leant",
+        "spanish": "Apoyarse"
+    },
+    {
+        "base_form": "Leap",
+        "past_simple": "Leapt",
+        "past_participle": "Leapt",
+        "spanish": "Brincar"
+    },
+    {
+        "base_form": "Learn",
+        "past_simple": "Learnt / Learned",
+        "past_participle": "Learnt / Learned",
+        "spanish": "Aprender"
+    },
+    {
+        "base_form": "Leave",
+        "past_simple": "Left",
+        "past_participle": "Left",
+        "spanish": "Dejar"
+    },
+    {
+        "base_form": "Lend",
+        "past_simple": "Lent",
+        "past_participle": "Lent",
+        "spanish": "Prestar"
+    },
+    {
+        "base_form": "Let",
+        "past_simple": "Let",
+        "past_participle": "Let",
+        "spanish": "Permitir"
+    },
+    {
+        "base_form": "Lie",
+        "past_simple": "Lay",
+        "past_participle": "Lain",
+        "spanish": "Echarse"
+    },
+    {
+        "base_form": "Light",
+        "past_simple": "Lit",
+        "past_participle": "Lit",
+        "spanish": "Encender"
+    },
+    {
+        "base_form": "Lose",
+        "past_simple": "Lost",
+        "past_participle": "Lost",
+        "spanish": "Perder"
+    },
+    {
+        "base_form": "Make",
+        "past_simple": "Made",
+        "past_participle": "Made",
+        "spanish": "Hacer"
+    },
+    {
+        "base_form": "Mean",
+        "past_simple": "Meant",
+        "past_participle": "Meant",
+        "spanish": "Significar"
+    },
+    {
+        "base_form": "Meet",
+        "past_simple": "Met",
+        "past_participle": "Met",
+        "spanish": "Encontrar"
+    },
+    {
+        "base_form": "Mistake",
+        "past_simple": "Mistook",
+        "past_participle": "Mistaken",
+        "spanish": "Equivocar"
+    },
+    {
+        "base_form": "Overcome",
+        "past_simple": "Overcame",
+        "past_participle": "Overcome",
+        "spanish": "Vencer"
+    },
+    {
+        "base_form": "Pay",
+        "past_simple": "Paid",
+        "past_participle": "Paid",
+        "spanish": "Pagar"
+    },
+    {
+        "base_form": "Put",
+        "past_simple": "Put",
+        "past_participle": "Put",
+        "spanish": "Poner"
+    },
+    {
+        "base_form": "Read",
+        "past_simple": "Read",
+        "past_participle": "Read",
+        "spanish": "Leer"
+    },
+    {
+        "base_form": "Ride",
+        "past_simple": "Rode",
+        "past_participle": "Ridden",
+        "spanish": "Montar"
+    },
+    {
+        "base_form": "Ring",
+        "past_simple": "Rang",
+        "past_participle": "Rung",
+        "spanish": "Llamar"
+    },
+    {
+        "base_form": "Rise",
+        "past_simple": "Rose",
+        "past_participle": "Risen",
+        "spanish": "Levantarse"
+    },
+    {
+        "base_form": "Run",
+        "past_simple": "Ran",
+        "past_participle": "Run",
+        "spanish": "Correr"
+    },
+    {
+        "base_form": "Say",
+        "past_simple": "Said",
+        "past_participle": "Said",
+        "spanish": "Decir"
+    },
+    {
+        "base_form": "See",
+        "past_simple": "Saw",
+        "past_participle": "Seen",
+        "spanish": "Ver"
+    },
+    {
+        "base_form": "Seek",
+        "past_simple": "Sought",
+        "past_participle": "Sought",
+        "spanish": "Buscar"
+    },
+    {
+        "base_form": "Sell",
+        "past_simple": "Sold",
+        "past_participle": "Sold",
+        "spanish": "Vender"
+    },
+    {
+        "base_form": "Send",
+        "past_simple": "Sent",
+        "past_participle": "Sent",
+        "spanish": "Enviar"
+    },
+    {
+        "base_form": "Set",
+        "past_simple": "Set",
+        "past_participle": "Set",
+        "spanish": "Poner(se)"
+    },
+    {
+        "base_form": "Sew",
+        "past_simple": "Sewed",
+        "past_participle": "Sewed / Sewn",
+        "spanish": "Coser"
+    },
+    {
+        "base_form": "Shake",
+        "past_simple": "Shook",
+        "past_participle": "Shaken",
+        "spanish": "Sacudir"
+    },
+    {
+        "base_form": "Shear",
+        "past_simple": "Shore",
+        "past_participle": "Shorn",
+        "spanish": "Esquilar"
+    },
+    {
+        "base_form": "Shine",
+        "past_simple": "Shone",
+        "past_participle": "Shone",
+        "spanish": "Brillar"
+    },
+    {
+        "base_form": "Shoot",
+        "past_simple": "Shot",
+        "past_participle": "Shot",
+        "spanish": "Disparar"
+    },
+    {
+        "base_form": "Show",
+        "past_simple": "Showed",
+        "past_participle": "Shown",
+        "spanish": "Mostrar"
+    },
+    {
+        "base_form": "Shrink",
+        "past_simple": "Shrank",
+        "past_participle": "Shrunk",
+        "spanish": "Encogerse"
+    },
+    {
+        "base_form": "Shut",
+        "past_simple": "Shut",
+        "past_participle": "Shut",
+        "spanish": "Cerrar"
+    },
+    {
+        "base_form": "Sing",
+        "past_simple": "Sang",
+        "past_participle": "Sung",
+        "spanish": "Cantar"
+    },
+    {
+        "base_form": "Sink",
+        "past_simple": "Sank",
+        "past_participle": "Sunk",
+        "spanish": "Hundir"
+    },
+    {
+        "base_form": "Sit",
+        "past_simple": "Sat",
+        "past_participle": "Sat",
+        "spanish": "Sentarse"
+    },
+    {
+        "base_form": "Sleep",
+        "past_simple": "Slept",
+        "past_participle": "Slept",
+        "spanish": "Dormir"
+    },
+    {
+        "base_form": "Slide",
+        "past_simple": "Slid",
+        "past_participle": "Slid",
+        "spanish": "Resbalar"
+    },
+    {
+        "base_form": "Smell",
+        "past_simple": "Smelt",
+        "past_participle": "Smelt",
+        "spanish": "Oler"
+    },
+    {
+        "base_form": "Sow",
+        "past_simple": "Sowed",
+        "past_participle": "Sowed / Sown",
+        "spanish": "Sembrar"
+    },
+    {
+        "base_form": "Speak",
+        "past_simple": "Spoke",
+        "past_participle": "Spoken",
+        "spanish": "Hablar"
+    },
+    {
+        "base_form": "Speed",
+        "past_simple": "Sped",
+        "past_participle": "Sped",
+        "spanish": "Acelerar"
+    },
+    {
+        "base_form": "Spell",
+        "past_simple": "Spelt",
+        "past_participle": "Spelt",
+        "spanish": "Deletrear"
+    },
+    {
+        "base_form": "Spend",
+        "past_simple": "Spent",
+        "past_participle": "Spent",
+        "spanish": "Gastar"
+    },
+    {
+        "base_form": "Spill",
+        "past_simple": "Spilt / Spilled",
+        "past_participle": "Spilt / Spilled",
+        "spanish": "Derramar"
+    },
+    {
+        "base_form": "Spin",
+        "past_simple": "Spun",
+        "past_participle": "Spun",
+        "spanish": "Hilar"
+    },
+    {
+        "base_form": "Spit",
+        "past_simple": "Spat",
+        "past_participle": "Spat",
+        "spanish": "Escupir"
+    },
+    {
+        "base_form": "Split",
+        "past_simple": "Split",
+        "past_participle": "Split",
+        "spanish": "Hender / partir / rajar"
+    },
+    {
+        "base_form": "Spoil",
+        "past_simple": "Spoilt / Spoiled",
+        "past_participle": "Spoilt / Spoiled",
+        "spanish": "Estropear"
+    },
+    {
+        "base_form": "Spread",
+        "past_simple": "Spread",
+        "past_participle": "Spread",
+        "spanish": "Extender"
+    },
+    {
+        "base_form": "Spring",
+        "past_simple": "Sprang",
+        "past_participle": "Sprung",
+        "spanish": "Saltar"
+    },
+    {
+        "base_form": "Stand",
+        "past_simple": "Stood",
+        "past_participle": "Stood",
+        "spanish": "Estar en pie"
+    },
+    {
+        "base_form": "Steal",
+        "past_simple": "Stole",
+        "past_participle": "Stolen",
+        "spanish": "Robar"
+    },
+    {
+        "base_form": "Stick",
+        "past_simple": "Stuck",
+        "past_participle": "Stuck",
+        "spanish": "Pegar Engomar"
+    },
+    {
+        "base_form": "Sting",
+        "past_simple": "Stung",
+        "past_participle": "Stung",
+        "spanish": "Picar"
+    },
+    {
+        "base_form": "Stink",
+        "past_simple": "Stank/Stunk",
+        "past_participle": "Stunk",
+        "spanish": "Apestar"
+    },
+    {
+        "base_form": "Stride",
+        "past_simple": "Strode",
+        "past_participle": "Stridden",
+        "spanish": "Dar zancadas"
+    },
+    {
+        "base_form": "Strike",
+        "past_simple": "Struck",
+        "past_participle": "Struck",
+        "spanish": "Golpear"
+    },
+    {
+        "base_form": "Swear",
+        "past_simple": "Swore",
+        "past_participle": "Sworn",
+        "spanish": "Jurar"
+    },
+    {
+        "base_form": "Sweat",
+        "past_simple": "Sweat",
+        "past_participle": "Sweat",
+        "spanish": "Sudar"
+    },
+    {
+        "base_form": "Sweep",
+        "past_simple": "Swept",
+        "past_participle": "Swept",
+        "spanish": "Barrer"
+    },
+    {
+        "base_form": "Swell",
+        "past_simple": "Swelled",
+        "past_participle": "Swollen",
+        "spanish": "Hinchar"
+    },
+    {
+        "base_form": "Swim",
+        "past_simple": "Swam",
+        "past_participle": "Swum",
+        "spanish": "Nadar"
+    },
+    {
+        "base_form": "Swing",
+        "past_simple": "Swung",
+        "past_participle": "Swung",
+        "spanish": "Columpiarse"
+    },
+    {
+        "base_form": "Take",
+        "past_simple": "Took",
+        "past_participle": "Taken",
+        "spanish": "Coger"
+    },
+    {
+        "base_form": "Teach",
+        "past_simple": "Taught",
+        "past_participle": "Taught",
+        "spanish": "Enseñar"
+    },
+    {
+        "base_form": "Tear",
+        "past_simple": "Tore",
+        "past_participle": "Torn",
+        "spanish": "Rasgar"
+    },
+    {
+        "base_form": "Tell",
+        "past_simple": "Told",
+        "past_participle": "Told",
+        "spanish": "Decir"
+    },
+    {
+        "base_form": "Think",
+        "past_simple": "Thought",
+        "past_participle": "Thought",
+        "spanish": "Pensar"
+    },
+    {
+        "base_form": "Throw",
+        "past_simple": "Threw",
+        "past_participle": "Thrown",
+        "spanish": "Arrojar Tirar"
+    },
+    {
+        "base_form": "Thrust",
+        "past_simple": "Thrust",
+        "past_participle": "Thrust",
+        "spanish": "Introducir"
+    },
+    {
+        "base_form": "Tread",
+        "past_simple": "Trod",
+        "past_participle": "Trodden",
+        "spanish": "Pisar, hollar"
+    },
+    {
+        "base_form": "Understand",
+        "past_simple": "Understood",
+        "past_participle": "Understood",
+        "spanish": "Entender"
+    },
+    {
+        "base_form": "Undergo",
+        "past_simple": "Underwent",
+        "past_participle": "Undergone",
+        "spanish": "Sufrir"
+    },
+    {
+        "base_form": "Undertake",
+        "past_simple": "Undertook",
+        "past_participle": "Undertaken",
+        "spanish": "Emprender"
+    },
+    {
+        "base_form": "Wake",
+        "past_simple": "Woke",
+        "past_participle": "Woken",
+        "spanish": "Despertarse"
+    },
+    {
+        "base_form": "Wear",
+        "past_simple": "Wore",
+        "past_participle": "Worn",
+        "spanish": "Llevar puesto"
+    },
+    {
+        "base_form": "Weave",
+        "past_simple": "Wove",
+        "past_participle": "Woven",
+        "spanish": "Tejer"
+    },
+    {
+        "base_form": "Weep",
+        "past_simple": "Wept",
+        "past_participle": "Wept",
+        "spanish": "Llorar"
+    },
+    {
+        "base_form": "Wet",
+        "past_simple": "Wet",
+        "past_participle": "Wet",
+        "spanish": "Mojar"
+    },
+    {
+        "base_form": "Win",
+        "past_simple": "Won",
+        "past_participle": "Won",
+        "spanish": "Ganar"
+    },
+    {
+        "base_form": "Wind",
+        "past_simple": "Wound",
+        "past_participle": "Wound",
+        "spanish": "Enrollar"
+    },
+    {
+        "base_form": "Withdraw",
+        "past_simple": "Withdrew",
+        "past_participle": "Withdrawn",
+        "spanish": "Retirarse"
+    },
+    {
+        "base_form": "Wring",
+        "past_simple": "Wrung",
+        "past_participle": "Wrung",
+        "spanish": "Torcer"
+    },
+    {
+        "base_form": "Write",
+        "past_simple": "Wrote",
+        "past_participle": "Written",
+        "spanish": "Escribir"
+    }
+]
